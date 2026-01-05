@@ -10,6 +10,8 @@ Apaixonado por tecnologia e resolução de problemas, tenho foco no desenvolvime
 
 Atualmente, busco oportunidades como **Desenvolvedor Júnior** para aplicar meus conhecimentos em **Java, C# e Ecossistema JavaScript**, contribuindo com entregas de qualidade e evoluindo tecnicamente.
 
+Veja o meu currículo! https://www.github.com/Imacsplayer/Curriculo
+
 ---
 
 ### 🛠️ Tech Stack
