@@ -1,7 +1,7 @@
 # Olá, eu sou Luiz Filipe de Camargo! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizmargo/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizfilipedecamargo@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.luizfilipe2@gmail.com)
 
 ### 🚀 Sobre Mim
 Sou Tecnólogo em **Análise e Desenvolvimento de Sistemas** pela **FATEC Sorocaba** (Alumnus 2025).
